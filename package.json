@@ -1,0 +1,28 @@
+{
+  "name": "confluence-oauth",
+  "version": "1.0.0",
+  "description": "This package provides helper functions for easy confluence oauth authorisation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlonoelle/node-confluence-oauth.git"
+  },
+  "keywords": [
+    "confluence",
+    "atlassian",
+    "oauth",
+    "node"
+  ],
+  "author": "Carlo Nölle <mail@carlonoelle.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlonoelle/node-confluence-oauth/issues"
+  },
+  "homepage": "https://github.com/carlonoelle/node-confluence-oauth#readme",
+  "dependencies": {
+    "oauth-advanced": "^0.9.1-5.1"
+  }
+}
